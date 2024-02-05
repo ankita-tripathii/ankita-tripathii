@@ -12,7 +12,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/ankita-tripathi-a1412t1996)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ankita-tripathi-a1412t1996)
 
 ---
 
@@ -29,4 +29,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap "width="60" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="40" height="40"/>
 </div>
+
 
